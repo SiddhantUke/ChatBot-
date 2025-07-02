@@ -3,10 +3,15 @@ ChatBit is a simple yet powerful chatbot that demonstrates how to build a memory
 
 
 .
+
 .
+
 .
+
 .
+
 .
+
 .
 
 🎯 Features
@@ -20,12 +25,19 @@ ChatBit is a simple yet powerful chatbot that demonstrates how to build a memory
 
 📜 Well-documented sample conversation flow
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
 
 🛠️ Tech Stack
@@ -37,12 +49,19 @@ Python and Jupyter Notebook
 
 .env for secure API key storage
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
 
 
@@ -55,12 +74,19 @@ All messages are stored in a ChatMessageHistory.
 
 The history is reused to make the chatbot context-aware.
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
 
 
@@ -75,13 +101,21 @@ Understanding LangChain's message and history framework
 Exploring LLM-powered assistant applications
 
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
 
  Files
